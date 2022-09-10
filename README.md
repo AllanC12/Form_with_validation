@@ -1,2 +1,2 @@
-# Front_end
-Projetos basicos de front end , HTML , CSS e JQuery/JavaScript
+Formulário com html , css e javascript;
+No javaScript estou validando os campos;
